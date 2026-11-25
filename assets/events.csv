@@ -1,0 +1,6 @@
+id,title,emoji,category,description,location,date,url
+event-001,Flutter Meetup,💻,technology,"Encuentro para compartir conocimientos sobre Flutter, Dart y desarrollo de aplicaciones multiplataforma.","Granada, España",2026-11-10T18:30:00,https://flutter.dev
+event-002,Ruta de senderismo,🥾,sports,"Actividad al aire libre para descubrir nuevas rutas, disfrutar de la naturaleza y conocer a otras personas.","Sierra Nevada, Granada",2026-11-14T09:00:00,
+event-003,Concierto de música,🎵,music,"Una oportunidad para disfrutar de música en directo y descubrir nuevos artistas.","Granada, España",2026-11-03T20:00:00,
+event-004,Taller de fotografía,📸,culture,"Taller práctico para aprender técnicas de fotografía, composición y edición de imágenes.","Centro cultural de Granada",2026-11-01T11:00:00,
+event-005,Charla sobre inteligencia artificial,🤖,education,"Introducción a las aplicaciones actuales de la inteligencia artificial y sus posibilidades de futuro.","Universidad de Granada",2026-11-30T17:00:00,https://www.ugr.es
